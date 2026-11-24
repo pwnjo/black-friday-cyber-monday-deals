@@ -66,6 +66,7 @@ We'd greatly appreciate if you could:
 | [Code With Mosh](https://codewithmosh.com/) | High-quality video courses on programming, web development, and software engineering fundamentals | Black Friday Sale 2026: lifetime access $199 (was $499), single courses also discounted | Ends about Dec 1 | ✅ |
 | [LabEx](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Black Friday 2026: **2026BF30** - 30% off or **2026BF50** - 50% off | - | ✅ |
 | [CSS Demystified](https://thecascade.dev/courses/css-demystified) | Courses on CSS by Kevin Powell, easy to follow and in-depth explanations | CSS Demystified: 32% off ($249 to $169), applied automatically | Ends Dec 1 | ✅ |
+| [pwn.guide](https://pwn.guide/pricing) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | **BLKFRI20** - 20% off every plan, forever | Ends Dec 5 | ✅ |
 
 ## UI kits & Starter kits
 
